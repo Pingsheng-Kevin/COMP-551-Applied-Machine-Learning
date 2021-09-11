@@ -1,0 +1,180 @@
+Grid Search takes 2773.5240409374237s to tune hyperparameters of Logistic Regression Classifier.
+Model Rank: 1
+Mean validation score: 0.87336 (std: 0.00569)
+Parameters: {'C': 1, 'penalty': 'l2'}
+
+Model Rank: 2
+Mean validation score: 0.87156 (std: 0.00611)
+Parameters: {'C': 2, 'penalty': 'l2'}
+
+Model Rank: 3
+Mean validation score: 0.86992 (std: 0.00626)
+Parameters: {'C': 3, 'penalty': 'l2'}
+
+Model Rank: 4
+Mean validation score: 0.86936 (std: 0.00647)
+Parameters: {'C': 4, 'penalty': 'l2'}
+
+Model Rank: 5
+Mean validation score: 0.86844 (std: 0.00651)
+Parameters: {'C': 5, 'penalty': 'l2'}
+
+Model Rank: 6
+Mean validation score: 0.86820 (std: 0.00674)
+Parameters: {'C': 6, 'penalty': 'l2'}
+
+Model Rank: 7
+Mean validation score: 0.86800 (std: 0.00683)
+Parameters: {'C': 7, 'penalty': 'l2'}
+
+Grid Search takes 2399.0139949321747s to tune hyperparameters of SVM Classifier.
+Model Rank: 1
+Mean validation score: 0.88020 (std: 0.00543)
+Parameters: {'C': 0.01, 'penalty': 'l2'}
+
+Model Rank: 2
+Mean validation score: 0.85596 (std: 0.00720)
+Parameters: {'C': 1.0, 'penalty': 'l2'}
+
+Model Rank: 3
+Mean validation score: 0.85168 (std: 0.00741)
+Parameters: {'C': 100.0, 'penalty': 'l2'}
+
+Model Rank: 4
+Mean validation score: 0.85144 (std: 0.00742)
+Parameters: {'C': 10000.0, 'penalty': 'l2'}
+
+Model Rank: 4
+Mean validation score: 0.85144 (std: 0.00742)
+Parameters: {'C': 1000000.0, 'penalty': 'l2'}
+
+Model Rank: 6
+Mean validation score: 0.83984 (std: 0.00772)
+Parameters: {'C': 0.0001, 'penalty': 'l2'}
+
+fit and score the MultinominalNB model with best hyper parameter using binary occurrence-indexed data.
+fit time: 134.04220271110535s
+score is: 82.99600000000001
+time used for scoring: 34.07787108421326s
+fit and score the GaussianNB model with best hyper parameter using binary occurrence-indexed data.
+fit time: 428.7712390422821s
+score is: 56.288000000000004
+time used for scoring: 765.4093730449677s
+fit and score the LinearSVC model with best hyper parameter using binary occurrence indexed data.
+fit time: 68.34613800048828s
+score is: 87.32
+time used for scoring: 34.267147064208984s
+fit and score the LogisticRegression model with best hyper parameter using binary occurrence indexed data.
+fit time: 75.96594214439392s
+score is: 86.212
+time used for scoring: 31.88285779953003s
+Multinomial NB classifier using 20.0% of the training data:
+fit time: 3.334815263748169s
+score is: 82.92399999999999
+time used for scoring: 25.940322637557983s
+Logistic Regression classifier using 20.0% of the training data:
+fit time: 4.366647005081177s
+score is: 86.168
+time used for scoring: 24.060023069381714s
+Multinomial NB classifier using 40.0% of the training data:
+fit time: 12.470152854919434s
+score is: 83.516
+time used for scoring: 25.792264938354492s
+Logistic Regression classifier using 40.0% of the training data:
+fit time: 20.445652961730957s
+score is: 87.196
+time used for scoring: 26.98023796081543s
+Multinomial NB classifier using 60.00000000000001% of the training data:
+fit time: 22.528544902801514s
+score is: 83.332
+time used for scoring: 27.295142889022827s
+Logistic Regression classifier using 60.00000000000001% of the training data:
+fit time: 26.38506317138672s
+score is: 87.46000000000001
+time used for scoring: 23.372026920318604s
+Multinomial NB classifier using 80.0% of the training data:
+fit time: 28.58857011795044s
+score is: 83.492
+time used for scoring: 24.51110291481018s
+Logistic Regression classifier using 80.0% of the training data:
+fit time: 36.27153778076172s
+score is: 87.71600000000001
+time used for scoring: 28.7372989654541s
+Multinomial NB classifier using 100.0% of the training data:
+fit time: 35.44537973403931s
+score is: 83.292
+time used for scoring: 25.110044240951538s
+Logistic Regression classifier using 100.0% of the training data:
+fit time: 42.66602921485901s
+score is: 87.80799999999999
+time used for scoring: 23.28459882736206s
+Grid Search takes 2050.9211299419403s to tune hyperparameters of Logistic Regression Classifier.
+Model Rank: 1
+Mean validation score: 0.89156 (std: 0.00510)
+Parameters: {'C': 5, 'penalty': 'l2'}
+
+Model Rank: 2
+Mean validation score: 0.89144 (std: 0.00491)
+Parameters: {'C': 6, 'penalty': 'l2'}
+
+Model Rank: 3
+Mean validation score: 0.89120 (std: 0.00537)
+Parameters: {'C': 3, 'penalty': 'l2'}
+
+Model Rank: 3
+Mean validation score: 0.89120 (std: 0.00535)
+Parameters: {'C': 4, 'penalty': 'l2'}
+
+Model Rank: 5
+Mean validation score: 0.89092 (std: 0.00482)
+Parameters: {'C': 7, 'penalty': 'l2'}
+
+Model Rank: 6
+Mean validation score: 0.89060 (std: 0.00550)
+Parameters: {'C': 2, 'penalty': 'l2'}
+
+Model Rank: 7
+Mean validation score: 0.88672 (std: 0.00570)
+Parameters: {'C': 1, 'penalty': 'l2'}
+
+Grid Search takes 1768.9286160469055s to tune hyperparameters of SVM Classifier.
+Model Rank: 1
+Mean validation score: 0.88936 (std: 0.00671)
+Parameters: {'C': 1.0, 'penalty': 'l2'}
+
+Model Rank: 2
+Mean validation score: 0.86980 (std: 0.00699)
+Parameters: {'C': 100.0, 'penalty': 'l2'}
+
+Model Rank: 3
+Mean validation score: 0.86912 (std: 0.00733)
+Parameters: {'C': 10000.0, 'penalty': 'l2'}
+
+Model Rank: 3
+Mean validation score: 0.86912 (std: 0.00733)
+Parameters: {'C': 1000000.0, 'penalty': 'l2'}
+
+Model Rank: 5
+Mean validation score: 0.85548 (std: 0.00600)
+Parameters: {'C': 0.01, 'penalty': 'l2'}
+
+Model Rank: 6
+Mean validation score: 0.82588 (std: 0.00776)
+Parameters: {'C': 0.0001, 'penalty': 'l2'}
+
+fit and score the LinearSVC model with best hyper parameter using tfidf-indexed data.
+fit time: 39.00549507141113s
+score is: 86.664
+time used for scoring: 19.942124128341675s
+fit and score the LogisticRegression model with best hyper parameter using tfidf-indexed data.
+fit time: 38.701545000076294s
+score is: 87.70400000000001
+time used for scoring: 19.52793788909912s
+ffit and score the MultinomialNB model with best hyper parameter using tfidf-indexed data.
+fit time: 37.68500089645386s
+score is: 77.084
+time used for scoring: 76.88431191444397s
+fit and score the GaussaianNB model with best hyper parameter using tfidf-indexed data.
+fit time: 368.31305384635925s
+score is: 56.98
+time used for scoring: 64.77698731422424s

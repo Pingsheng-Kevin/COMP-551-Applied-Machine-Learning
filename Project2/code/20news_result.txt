@@ -1,0 +1,72 @@
+fit and score the MultinominalNB model with best hyper parameter using binary occurrence-indexed data.
+fit time: 921.0302121639252s
+score is: 75.29208709506108
+time used for scoring: 17.78339672088623s
+fit and score the GaussianNB model with best hyper parameter using binary occurrence-indexed data.
+fit time: 164.2150480747223s
+score is: 69.39723844928307
+time used for scoring: 911.9448659420013s
+fit and score the LinearSVC model with best hyper parameter using binary occurrence indexed data.
+fit time: 53.89607286453247s
+score is: 78.00053106744556
+time used for scoring: 15.868914127349854s
+fit and score the LogisticRegression model with best hyper parameter using binary occurrence indexed data.
+fit time: 59.41791582107544s
+score is: 78.54487519915028
+time used for scoring: 16.163445949554443s
+Multinomial NB classifier using 20.0% of the training data:
+fit time: 1.8049468994140625s
+score is: 62.61285183218269
+time used for scoring: 10.12911319732666s
+Logistic Regression classifier using 20.0% of the training data:
+fit time: 4.544103145599365s
+score is: 74.12373871481678
+time used for scoring: 9.065526008605957s
+Multinomial NB classifier using 40.0% of the training data:
+fit time: 4.671496868133545s
+score is: 71.52150823154541
+time used for scoring: 9.957680225372314s
+Logistic Regression classifier using 40.0% of the training data:
+fit time: 9.268215894699097s
+score is: 78.35900159320234
+time used for scoring: 9.614041090011597s
+Multinomial NB classifier using 60.00000000000001% of the training data:
+fit time: 13.969079971313477s
+score is: 74.57514604354753
+time used for scoring: 10.100129842758179s
+Logistic Regression classifier using 60.00000000000001% of the training data:
+fit time: 24.10564422607422s
+score is: 80.21773765268189
+time used for scoring: 9.91051697731018s
+Multinomial NB classifier using 80.0% of the training data:
+fit time: 20.1380832195282s
+score is: 76.75252257036644
+time used for scoring: 10.031982898712158s
+Logistic Regression classifier using 80.0% of the training data:
+fit time: 31.134778022766113s
+score is: 81.31970260223048
+time used for scoring: 10.307897090911865s
+Multinomial NB classifier using 100.0% of the training data:
+fit time: 26.277751922607422s
+score is: 77.36325013276686
+time used for scoring: 10.359496116638184s
+Logistic Regression classifier using 100.0% of the training data:
+fit time: 40.69561505317688s
+score is: 82.14285714285714
+time used for scoring: 14.00158405303955s
+fit and score the LinearSVC model with best hyper parameter using tfidf-indexed data.
+fit time: 33.976662158966064s
+score is: 82.79341476367499
+time used for scoring: 10.036282777786255s
+fit and score the LogisticRegression model with best hyper parameter using tfidf-indexed data.
+fit time: 38.369486808776855s
+score is: 82.14285714285714
+time used for scoring: 10.29216980934143s
+fit and score the GaussaianNB model with best hyper parameter using tfidf-indexed data.
+fit time: 334.9925639629364s
+score is: 67.45884227296867
+time used for scoring: 878.2946991920471s
+fit and score the MultinomialNB model with best hyper parameter using tfidf-indexed data.
+fit time: 22.9725558757782s
+score is: 77.36325013276686
+time used for scoring: 9.180584907531738s

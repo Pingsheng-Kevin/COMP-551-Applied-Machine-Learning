@@ -1,0 +1,9 @@
+Please note that since all experiments may not be conducted using the same computing machine
+For example, some are run at laptop locally while some are run in google colab VM
+So there're multiple versions of notebooks, the majority is the same with a few distinctions.
+
+Most of experiment results are adopted from MLP_v2.ipynb
+
+Also, please note that some experiments take extremely long time to complete, up to 3 days.
+
+GPU/TPU not supported
